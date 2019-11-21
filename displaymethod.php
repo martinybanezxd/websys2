@@ -12,4 +12,4 @@ if (isset($_REQUEST["lname"]) || isset($_REQUEST["age"]) || isset($_REQUEST["pas
 
 ?>
 
-<a href="welcome.php"> Back </a>
+<a href="index.php"> Back </a>
