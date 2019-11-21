@@ -35,6 +35,6 @@
 		}
 	?>
 
-	<a href="welcome.php"> Back </a>
+	<a href="index.php"> Back </a>
 </body>
 </html>
