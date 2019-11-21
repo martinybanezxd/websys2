@@ -10,6 +10,6 @@
 	Password: <input type="text" name="pass"/>
 	<input type="submit" value="submit">
 	</form>
-	<a href="welcome.php"> Back </a>
+	<a href="index.php"> Back </a>
 </body>
 </html>
